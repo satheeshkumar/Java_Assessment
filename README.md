@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/ro6ley/java-web-scraper.svg)](http://hits.dwyl.io/ro6ley/java-web-scraper)
+[![HitCount])
 
 # Web Scraping the Java Way
 
@@ -19,7 +19,7 @@ Kindly ensure you have the following installed on your machine:
 
 1. Clone the repository
 ```
-$ git clone https://github.com/ro6ley/java-web-scraper.git
+$ git clone https://github.com/satheeshkumar/java-web-scraper.git
 ```
 
 2. Check into the cloned repository
